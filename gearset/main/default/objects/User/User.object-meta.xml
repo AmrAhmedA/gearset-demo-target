@@ -68,5 +68,4 @@
         <searchResultsAdditionalFields>CORE.USERS.PHONE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>CORE.USERS.EMAIL</searchResultsAdditionalFields>
     </searchLayouts>
-    <sharingModel>Read</sharingModel>
 </CustomObject>
